@@ -1,6 +1,6 @@
 Backend API
 
-Written by Samuel Girsang - November 2020
+Written by Samuel Girsang - November-2020
 
 ### Start development environment
 
